@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist</h3>
+<p>  Throughout my career, I have worked in different fields related to my academic career. My favorite part is coding in all these jobs. That's why I wanted to continue my career in the software industry, where I can completely code.
+<br>
+<br>
+  I'm currently working on Kotlin. I have also developed myself in artificial intelligence and machine learning.
+<br>
+<br>
+  I am a person who constantly researches his areas of interest, has high self-learning skills, and has strong bilateral relations and teamwork aspects.
+</p>
 
 - 🌱 I’m currently learning **Kotlin**
 
