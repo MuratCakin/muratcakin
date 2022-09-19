@@ -4,9 +4,6 @@
 <br>
 <br>
   I'm currently working on Kotlin. I have also developed myself in artificial intelligence and machine learning.
-<br>
-<br>
-  I am a person who constantly researches his areas of interest, has high self-learning skills, and has strong bilateral relations and teamwork aspects.
 </p>
 
 - 🌱 I’m currently learning **Kotlin**
